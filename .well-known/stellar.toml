@@ -1,0 +1,23 @@
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GC53AK2JTSXGRQIJCOKLPQY7AFM22S52MA2XSO4BDB4IJYK237AZBUCH"
+]
+
+ORG_NAME="VGT Token"
+ORG_URL="https://rts.web.id"
+ORG_DESCRIPTION="VGT is a utility token built on the Stellar Network, designed for fast, secure and low-cost digital asset transfers."
+ORG_LOGO="https://rts.web.id/logo.png"
+
+[[CURRENCIES]]
+code="VGT"
+issuer="GC53AK2JTSXGRQIJCOKLPQY7AFM22S52MA2XSO4BDB4IJYK237AZBUCH"
+display_decimals=2
+name="VGT Token"
+desc="VGT is a Stellar-based utility token with a fixed maximum supply of 16,000,000 VGT."
+conditions="Maximum supply: 16,000,000 VGT."
+image="https://rts.web.id/logo.png"
+is_asset_anchored=false
+status="live"
