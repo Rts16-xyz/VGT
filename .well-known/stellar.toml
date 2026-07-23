@@ -9,7 +9,7 @@ ACCOUNTS=[
 ORG_NAME="VGT Token"
 ORG_URL="https://rts.web.id"
 ORG_DESCRIPTION="VGT is a utility token built on the Stellar Network, designed for fast, secure and low-cost digital asset transfers."
-ORG_LOGO="https://rts.web.id/logo.png"
+ORG_LOGO="https://rts.web.id/Vgt.png"
 
 [[CURRENCIES]]
 code="VGT"
@@ -18,6 +18,6 @@ display_decimals=2
 name="VGT Token"
 desc="VGT is a Stellar-based utility token with a fixed maximum supply of 16,000,000 VGT."
 conditions="Maximum supply: 16,000,000 VGT."
-image="https://rts.web.id/logo.png"
+image="https://rts.web.id/Vgt.png"
 is_asset_anchored=false
 status="live"
