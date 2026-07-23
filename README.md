@@ -1,7 +1,7 @@
 # VGT Project
 
 <p align="center">
-  <img src="logo.png" alt="VGT Logo" width="220"/>
+  <img src="Vgt.png" alt="Vgt.png" width="220"/>
 </p>
 
 <h1 align="center">VGT Token</h1>
